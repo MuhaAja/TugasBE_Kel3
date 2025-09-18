@@ -1,8 +1,4 @@
 ﻿# TugasBE_Kel3
-anggota
-Anandita Putri Artiar		 	 (V3424002)
-Arzeta Putri Kaila 			 (V3424003)
-Mahesa Rahmad Ramdani	 	 (V3424010)
-Muhammad Alfa Rizky P.B 	 	 (V3424011)
 Muharram Bagas Putra Santoso 	 (V3424031)
+
 
